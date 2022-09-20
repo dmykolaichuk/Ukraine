@@ -1,3 +1,7 @@
 Pryluky
 Nizhyn
+<<<<<<< HEAD
 Novgorod-Siverskiy
+=======
+Korop
+>>>>>>> d133d1af52556cf89e6caef3e64b4d9945166e61
