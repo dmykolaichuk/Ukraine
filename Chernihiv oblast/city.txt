@@ -5,3 +5,5 @@ Korop
 Mena
 Gorodnia
 Ichnia
+
+Ripki
