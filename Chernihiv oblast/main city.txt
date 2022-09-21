@@ -1,2 +1,1 @@
 Main city: Chernihiv
-test ignore
